@@ -45,8 +45,8 @@ rawdbs:
                 - source: csv
                   schedule: On trigger
                   contacts:
-                      - name: [Contact name]
-                        email: [Contact e-mail]
+                      - name: Atul
+                        email: abc@abc.com
                         role: Bootcamp 20 Administrator
                         send-notification: false
 
@@ -62,7 +62,7 @@ rawdbs:
                 - source: ice-cream-api
                   schedule: On trigger
                   contacts:
-                      - name: [Contact name]
-                        email: [Contact e-mail]
+                      - name: Atul
+                        email: abc@abc.com
                         role: Bootcamp 20 Administrator
                         send-notification: false
